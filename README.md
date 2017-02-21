@@ -1,4 +1,5 @@
-## Hi friends,
+## Jason Liu
+### Hi friends,
 
 I'm an economics and computer science student at Williams College, but I wear many hats outside of that. 
 
