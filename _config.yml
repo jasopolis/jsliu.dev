@@ -18,6 +18,7 @@ email: 'jason@jliu.ca'
 description: "I'm a environmental and development economics student and researcher at @UChiUrbanLabs."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jliu.ca" # the base hostname & protocol for your site, e.g. https://example.com
+work_page: 'https://urbanlabs.uchicago.edu/people/jason-liu'
 twitter_username: 'jasonopoleis'
 github_username: 'jason-liu-cs'
 medium_username: ''
