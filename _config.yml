@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Jason Liu"
 email: 'jason@jliu.ca'
-description: "Hi! I'm an environmental and development economics student and researcher at the UChicago Urban Labs."
+description: "Hi! I'm an environmental and development economics student and researcher at UChicago Urban Labs."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jliu.ca" # the base hostname & protocol for your site, e.g. https://example.com
 work_page: 'https://urbanlabs.uchicago.edu/people/jason-liu'
