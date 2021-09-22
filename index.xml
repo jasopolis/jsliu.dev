@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J.S. Liu</title>
-    <link>https://jliu.ca/</link>
-    <description>Recent content on J.S. Liu</description>
+    <title>Jas Liu</title>
+    <link>https://jsliu.org/</link>
+    <description>Recent content on Jas Liu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Fri, 24 Apr 2020 11:42:29 -0500</lastBuildDate>
-    
-	<atom:link href="https://jliu.ca/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-ca</language><atom:link href="https://jsliu.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>J.S. (Jason) Liu</title>
-      <link>https://jliu.ca/aboot/</link>
+      <title>Jas Liu</title>
+      <link>https://jsliu.org/aboot/</link>
       <pubDate>Fri, 24 Apr 2020 11:42:29 -0500</pubDate>
       
-      <guid>https://jliu.ca/aboot/</guid>
-      <description>Hey! My name is J.S. (Jason) Liu, and I&amp;rsquo;m an economics and computer science student at Williams College, expected to graduate in 2021. My pronouns are they/them but he/him are okay too.
+      <guid>https://jsliu.org/aboot/</guid>
+      <description>Hi, I&amp;rsquo;m Jas Liu (a.k.a. JS Liu)! (Jas is pronounced &amp;ldquo;jase&amp;rdquo;, rhymes with chase). My pronouns are they/them. I&amp;rsquo;m a Software Engineer at Radix Labs, where I help build software for the next generation of biology labs. The Radix platform helps biologists more easily achieve end-to-end automation, protocol reproducibility, automated scheduling, hardware independence, and high-volume data analysis.
 Find me at&amp;hellip;
- email: js [at] jsliu.org github: @jasonopolis linkedin: liu-js twitter: @jasonopoleis   In the past, I&amp;rsquo;ve worked on research projects ranging from environmental regulation in California to agricultural policy in Sub-Saharan Africa. From 2018-2019, I was a Junior Project Associate at the University of Chicago Energy &amp;amp; Environment Lab, a joint effort of Urban Labs and the Energy Policy Institute of Chicago (EPIC).</description>
+ email: js [at] radix.bio github: @jasopolis linkedin: liu-js  Black lives matter.</description>
     </item>
     
   </channel>
