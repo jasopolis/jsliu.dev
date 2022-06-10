@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jas Liu</title>
-    <link>https://jsliu.org/categories/</link>
+    <link>https://jsliu.dev/categories/</link>
     <description>Recent content in Categories on Jas Liu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://jsliu.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://jsliu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

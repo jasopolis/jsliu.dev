@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jas Liu</title>
-    <link>https://jsliu.org/</link>
+    <link>https://jsliu.dev/</link>
     <description>Recent content on Jas Liu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://jsliu.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://jsliu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jas Liu</title>
-      <link>https://jsliu.org/aboot/</link>
+      <title>Jas Liu (劉傑思)</title>
+      <link>https://jsliu.dev/aboot/</link>
       <pubDate>Fri, 24 Apr 2020 11:42:29 -0500</pubDate>
       
-      <guid>https://jsliu.org/aboot/</guid>
-      <description>Hi, I&amp;rsquo;m Jas Liu! (Pronounced &amp;ldquo;jase&amp;rdquo;, rhymes with chase). My pronouns are they/them.
-I&amp;rsquo;m a Software Engineer at Radix Labs, where I help build software for the next generation of biology labs. The Radix platform helps biologists more easily achieve end-to-end automation, protocol reproducibility, automated scheduling, hardware independence, and high-volume data analysis.
-Find me at&amp;hellip;
- email: js [at] radix.bio github: @jasopolis linkedin: liu-js  Black lives matter. Black trans lives matter.</description>
+      <guid>https://jsliu.dev/aboot/</guid>
+      <description>Hi, I&amp;rsquo;m Jas Liu! (Pronounced “jase”, rhymes with chase). My pronouns are they/them.
+I&amp;rsquo;m a Software Engineer at Radix Labs, where we build integrated automation solutions for biology labs. I currently lead front-end development for our Rainbow lab database and Timberland service controller, as well as general user authentication and navigation.
+Previously, I worked at the University of Chicago Energy &amp;amp; Environment Lab, where I developed predictive analytics models and data engineering processes for environmental policy research with the U.</description>
     </item>
     
   </channel>
