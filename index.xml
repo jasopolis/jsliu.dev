@@ -4,18 +4,16 @@
     <title>Jas Liu</title>
     <link>https://jsliu.dev/</link>
     <description>Recent content on Jas Liu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://jsliu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2020 11:42:29 -0500</lastBuildDate>
+    <atom:link href="https://jsliu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jas Liu (劉傑思)</title>
       <link>https://jsliu.dev/aboot/</link>
       <pubDate>Fri, 24 Apr 2020 11:42:29 -0500</pubDate>
-      
       <guid>https://jsliu.dev/aboot/</guid>
-      <description>Hi, I&amp;rsquo;m Jas Liu! (Pronounced “jase”, rhymes with chase). My pronouns are they/them.
-I’m a software engineer at Morning Consult, working on data analytics tools and applications.
-Previously, I worked at an early-stage startup developing integrated automation solutions for biologists, where I led front-end engineering for their lab inventory management system. Before that, I was a junior policy associate at the University of Chicago Energy &amp;amp; Environment Lab, where I developed predictive analytics models and data engineering processes for environmental policy research with the U.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jsliu.dev/Jas.webp&#34; alt=&#34;picture of Jas smiling at the camera&#34; style=&#34;width: 200px;height: 200px;margin: 0 auto;&#34;&gt; &lt;!-- markdownlint-disable-line no-inline-html --&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Jas! (Pronounced “jase”, rhymes with chase). My pronouns are &lt;a href=&#34;//my.pronoun.is/they/she&#34;&gt;they/she&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I’m a software engineer on the AI Research team at &lt;a href=&#34;https://morningconsult.com/&#34;&gt;Morning Consult&lt;/a&gt;, building machine learning tools and features at scale for our global polling and survey data platform.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I worked at an early-stage startup developing integrated automation solutions for biologists. Before that, I was a research assistant at the &lt;a href=&#34;https://urbanlabs.uchicago.edu/labs/energy-environment&#34;&gt;UChicago Energy &amp;amp; Environment Lab&lt;/a&gt;, where I developed predictive analytics ML models and data engineering pipelines for environmental policy research with the U.S. EPA, California Air Resources Board, and other governmental partners.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
